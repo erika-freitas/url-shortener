@@ -4,9 +4,13 @@ This was a guided project from DIO's instructor [Alexia Dorneles](https://github
 <br><br>
 ### Available Scripts:
 
-`npm run build:watch`
+```sh
+npm run build:watch
+```
 
-`npm run dev`
+```sh
+npm run dev
+```
 
 Open http://localhost:5000 to view it in your browser.
 <br><br>
