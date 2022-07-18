@@ -1,0 +1,4 @@
+export const config = {
+  API_URL: "http://localhost:port",
+  MONGO_CONNECTION: "connection string"
+}
