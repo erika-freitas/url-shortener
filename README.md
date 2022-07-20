@@ -1,6 +1,6 @@
 # URL Shortener
 
-This was a guided project from DIO's instructor [Alexia Dorneles](https://github.com/alexiadorneles).
+This is a guided project by DIO's instructor [Alexia Dorneles](https://github.com/alexiadorneles).
 <br><br>
 ### Available Scripts:
 
